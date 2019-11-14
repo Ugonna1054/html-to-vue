@@ -634,7 +634,6 @@
 </template>
 
 <script>
-// import '../assets/vendor/bundles/fullcalendarscripts.bundle.js'
 
 export default {
   name: "home",
